@@ -1,0 +1,14 @@
+  Summary
+  Project
+  Component
+  Version
+  Severity
+  Priority
+  Status
+  Author
+  Assigned to
+  OS
+  Steps to reproduce
+  Result
+  Expected result
+  Attachment
